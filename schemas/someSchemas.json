@@ -3,6 +3,6 @@
     "type":"integer"
   },
   "string":{
-    "type:"string"
+    "type":"string"
   }
 }
