@@ -4,5 +4,11 @@
   },
   "string":{
     "type":"string"
+  },
+  "jsonPointerInteger":{
+    "$ref":"#/integer"
+  },
+  "remoteRefInteger":{
+    "$ref":"https://raw.githubusercontent.com/MainScientist/json_schema_tests/master/schemas/integer.json"
   }
 }
